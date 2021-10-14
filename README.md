@@ -73,11 +73,12 @@ ___
 <a href="https://www.youtube.com/channel/UCPmM6RAkfC0CY2gGudIhWQA?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Dev.Lawyer-%E2%96%B6%20Subscribe!-red" /></a>
 
 <!-- YOUTUBE:START -->
-- [[INSTALE PASSO A PASSO] 5 Temas grátis para BLOGGER](https://www.youtube.com/watch?v=ibvWdC2mm30)
-- [[PASSO A PASSO] Como fazer uma LISTA DE EMAILS no seu site](https://www.youtube.com/watch?v=hkcSEJHnpe4)
-- [Como criar uma LANDING PAGE sem programação](https://www.youtube.com/watch?v=keKOJEhhDqY)
-- [[PASSO A PASSO] Como criar um SITE GRÁTIS sem programação](https://www.youtube.com/watch?v=xrp1c9OvQPQ)
-- [Como criar um E-MAIL PROFISSIONAL no GMAIL](https://www.youtube.com/watch?v=lHc0tUonBSE)
+[![](https://youtube-thumbnail-retriever.vercel.app/api/youtube-thumbnail/?channelId=UCPmM6RAkfC0CY2gGudIhWQA&videoId=ibvWdC2mm30)](https://www.youtube.com/watch?v=ibvWdC2mm30)
+[![](https://youtube-thumbnail-retriever.vercel.app/api/youtube-thumbnail/?channelId=UCPmM6RAkfC0CY2gGudIhWQA&videoId=hkcSEJHnpe4)](https://www.youtube.com/watch?v=hkcSEJHnpe4)
+[![](https://youtube-thumbnail-retriever.vercel.app/api/youtube-thumbnail/?channelId=UCPmM6RAkfC0CY2gGudIhWQA&videoId=keKOJEhhDqY)](https://www.youtube.com/watch?v=keKOJEhhDqY)
+[![](https://youtube-thumbnail-retriever.vercel.app/api/youtube-thumbnail/?channelId=UCPmM6RAkfC0CY2gGudIhWQA&videoId=xrp1c9OvQPQ)](https://www.youtube.com/watch?v=xrp1c9OvQPQ)
+[![](https://youtube-thumbnail-retriever.vercel.app/api/youtube-thumbnail/?channelId=UCPmM6RAkfC0CY2gGudIhWQA&videoId=lHc0tUonBSE)](https://www.youtube.com/watch?v=lHc0tUonBSE)
+[![](https://youtube-thumbnail-retriever.vercel.app/api/youtube-thumbnail/?channelId=UCPmM6RAkfC0CY2gGudIhWQA&videoId=rF9vEPBNva0)](https://www.youtube.com/watch?v=rF9vEPBNva0)
 <!-- YOUTUBE:END -->
 
 ## ✍🏻 Últimos Artigos no Dev.Lawyer (🇧🇷)
