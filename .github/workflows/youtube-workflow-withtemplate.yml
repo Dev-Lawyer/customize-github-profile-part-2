@@ -35,4 +35,4 @@ jobs:
           # definidas pelo autor do repositório, e podem ser usadas aqui. Veja mais informações
           # sobre essas e outras variáveis aqui: 
           # https://github.com/gautamkrishnar/blog-post-workflow
-          template: '$newline[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)]($url)'
+          template: '$newline[![](https://youtube-thumbnail-retriever.vercel.app/api/youtube-thumbnail/?videoId=$videoId)]($url)'
