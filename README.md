@@ -73,12 +73,12 @@ ___
 <a href="https://www.youtube.com/channel/UCPmM6RAkfC0CY2gGudIhWQA?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Dev.Lawyer-%E2%96%B6%20Subscribe!-red" /></a>
 
 <!-- YOUTUBE:START -->
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?videoId=ibvWdC2mm30)](https://www.youtube.com/watch?v=ibvWdC2mm30)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?videoId=hkcSEJHnpe4)](https://www.youtube.com/watch?v=hkcSEJHnpe4)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?videoId=keKOJEhhDqY)](https://www.youtube.com/watch?v=keKOJEhhDqY)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?videoId=xrp1c9OvQPQ)](https://www.youtube.com/watch?v=xrp1c9OvQPQ)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?videoId=lHc0tUonBSE)](https://www.youtube.com/watch?v=lHc0tUonBSE)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?videoId=rF9vEPBNva0)](https://www.youtube.com/watch?v=rF9vEPBNva0)<!-- YOUTUBE:END -->
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCPmM6RAkfC0CY2gGudIhWQA&videoId=ibvWdC2mm30)](https://www.youtube.com/watch?v=ibvWdC2mm30)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCPmM6RAkfC0CY2gGudIhWQA&videoId=hkcSEJHnpe4)](https://www.youtube.com/watch?v=hkcSEJHnpe4)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCPmM6RAkfC0CY2gGudIhWQA&videoId=keKOJEhhDqY)](https://www.youtube.com/watch?v=keKOJEhhDqY)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCPmM6RAkfC0CY2gGudIhWQA&videoId=xrp1c9OvQPQ)](https://www.youtube.com/watch?v=xrp1c9OvQPQ)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCPmM6RAkfC0CY2gGudIhWQA&videoId=lHc0tUonBSE)](https://www.youtube.com/watch?v=lHc0tUonBSE)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCPmM6RAkfC0CY2gGudIhWQA&videoId=rF9vEPBNva0)](https://www.youtube.com/watch?v=rF9vEPBNva0)<!-- YOUTUBE:END -->
 
 ## ✍🏻 Últimos Artigos no Dev.Lawyer (🇧🇷)
 
